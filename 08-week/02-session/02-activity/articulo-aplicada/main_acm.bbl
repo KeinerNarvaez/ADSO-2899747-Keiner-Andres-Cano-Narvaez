@@ -1,0 +1,111 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{5}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Camarena~Sagredo et~al\mbox{.}(2012)]%
+        {mvc}
+\bibfield{author}{\bibinfo{person}{Jesús~Gamaliel Camarena~Sagredo},
+  \bibinfo{person}{Adrian Trueba~Espinosa}, \bibinfo{person}{Magally
+  Martínez~Reyes}, {and} \bibinfo{person}{María de~Lourdes López~García}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \bibinfo{title}{Automatización de la codificación del patrón
+  modelo-vista-controlador (MVC) en proyectos orientados a la Web}.
+\newblock
+\urldef\tempurl%
+\url{https://www.redalyc.org/pdf/104/10423895005.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Haro et~al\mbox{.}(2019)]%
+        {nodejs_springboot}
+\bibfield{author}{\bibinfo{person}{Edward Haro}, \bibinfo{person}{Teresa
+  Guarda}, \bibinfo{person}{Alex~Omar Zambrano~Peñaherrera}, {and}
+  \bibinfo{person}{Geovanni Ninahualpa~Quiña}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \bibinfo{title}{Desarrollo backend para aplicaciones web, Servicios
+  Web Restful: Node.js vs Spring Boot}.
+\newblock
+\urldef\tempurl%
+\url{https://www.proquest.com/openview/a78cfaa62708fd24f38ac8d1025050eb/1?pq-origsite=gscholar&cbl=10063}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Izquierdo(2008)]%
+        {poo}
+\bibfield{author}{\bibinfo{person}{Luis~R. Izquierdo}.}
+  \bibinfo{year}{2008}\natexlab{}.
+\newblock \bibinfo{title}{Introducción a la Programación Orientada a
+  Objetos}.
+\newblock
+\urldef\tempurl%
+\url{https://luis.izqui.org/resources/ProgOrientadaObjetos.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Pisco~Gómez et~al\mbox{.}(2017)]%
+        {databases}
+\bibfield{author}{\bibinfo{person}{Ángel Pisco~Gómez},
+  \bibinfo{person}{Julio~Johnny Regalado~Jalca}, \bibinfo{person}{Jimmy
+  Gutiérrez~García}, \bibinfo{person}{Omar Quimis~Sánchez},
+  \bibinfo{person}{Kleber Marcillo~Parrales}, {and} \bibinfo{person}{Javier
+  Marcillo~Merino}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{title}{Fundamentos sobre la gestión de base de datos}.
+\newblock
+\urldef\tempurl%
+\url{https://books.google.com.co/books?hl=es&lr=lang_es&id=H0VBDwAAQBAJ&oi=fnd&pg=PA21}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Trigás~Gallego(2012)]%
+        {scrum}
+\bibfield{author}{\bibinfo{person}{Manuel Trigás~Gallego}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \bibinfo{title}{Metodología Scrum: Desarrollo detallado de la fase
+  de aprobación de un proyecto informático mediante el uso de metodologías
+  ágiles}.
+\newblock
+\urldef\tempurl%
+\url{https://openaccess.uoc.edu/server/api/core/bitstreams/64de036d-c56c-4317-ad60-fcb968469221/content}
+\showURL{%
+\tempurl}
+
+
+\end{thebibliography}

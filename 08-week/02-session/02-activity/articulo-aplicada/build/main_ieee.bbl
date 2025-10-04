@@ -1,0 +1,225 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{poo}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=ab30abd79f918f0a78da752535bb78d5}{%
+           family={Izquierdo},
+           familyi={I\bibinitperiod},
+           given={Luis\bibnamedelima R.},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ab30abd79f918f0a78da752535bb78d5}
+      \strng{fullhash}{ab30abd79f918f0a78da752535bb78d5}
+      \strng{fullhashraw}{ab30abd79f918f0a78da752535bb78d5}
+      \strng{bibnamehash}{ab30abd79f918f0a78da752535bb78d5}
+      \strng{authorbibnamehash}{ab30abd79f918f0a78da752535bb78d5}
+      \strng{authornamehash}{ab30abd79f918f0a78da752535bb78d5}
+      \strng{authorfullhash}{ab30abd79f918f0a78da752535bb78d5}
+      \strng{authorfullhashraw}{ab30abd79f918f0a78da752535bb78d5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introducción a la Programación Orientada a Objetos}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb https://luis.izqui.org/resources/ProgOrientadaObjetos.pdf
+      \endverb
+      \verb{url}
+      \verb https://luis.izqui.org/resources/ProgOrientadaObjetos.pdf
+      \endverb
+    \endentry
+    \entry{mvc}{misc}{}{}
+      \name{author}{4}{}{%
+        {{hash=60133033fc2ea3bde898a74564589795}{%
+           family={Camarena\bibnamedelima Sagredo},
+           familyi={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Jesús\bibnamedelima Gamaliel},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=1cc2eb110bd09222141f19d950675eee}{%
+           family={Trueba\bibnamedelima Espinosa},
+           familyi={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+        {{hash=eb4fb90ddcd459fa24db10d2f183a689}{%
+           family={Martínez\bibnamedelima Reyes},
+           familyi={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Magally},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7859dd4f2cec8ad0db108ad1560831e5}{%
+           family={López\bibnamedelima García},
+           familyi={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={María\bibnamedelimb de\bibnamedelima Lourdes},
+           giveni={M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{11aa4e04a200be0292a0de6b08c43b08}
+      \strng{fullhash}{63d4ccdbc012f95e59d157d80bdae683}
+      \strng{fullhashraw}{63d4ccdbc012f95e59d157d80bdae683}
+      \strng{bibnamehash}{63d4ccdbc012f95e59d157d80bdae683}
+      \strng{authorbibnamehash}{63d4ccdbc012f95e59d157d80bdae683}
+      \strng{authornamehash}{11aa4e04a200be0292a0de6b08c43b08}
+      \strng{authorfullhash}{63d4ccdbc012f95e59d157d80bdae683}
+      \strng{authorfullhashraw}{63d4ccdbc012f95e59d157d80bdae683}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Automatización de la codificación del patrón modelo-vista-controlador (MVC) en proyectos orientados a la Web}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.redalyc.org/pdf/104/10423895005.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.redalyc.org/pdf/104/10423895005.pdf
+      \endverb
+    \endentry
+    \entry{nodejs_springboot}{misc}{}{}
+      \name{author}{4}{}{%
+        {{hash=e08fc8581477a61d51a8f8bccb89e737}{%
+           family={Haro},
+           familyi={H\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f4b63c7a64677175435d6c3d27f31c65}{%
+           family={Guarda},
+           familyi={G\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d54672dd9f99be3d21ee68855d98eb7e}{%
+           family={Zambrano\bibnamedelima Peñaherrera},
+           familyi={Z\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Alex\bibnamedelima Omar},
+           giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=6b861f26d375de710bd9dc1bdbd02097}{%
+           family={Ninahualpa\bibnamedelima Quiña},
+           familyi={N\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           given={Geovanni},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{6878b990553db3df82927dc7b0c816f3}
+      \strng{fullhash}{dbe3ba6a6bf85da22181390bf0c7a809}
+      \strng{fullhashraw}{dbe3ba6a6bf85da22181390bf0c7a809}
+      \strng{bibnamehash}{dbe3ba6a6bf85da22181390bf0c7a809}
+      \strng{authorbibnamehash}{dbe3ba6a6bf85da22181390bf0c7a809}
+      \strng{authornamehash}{6878b990553db3df82927dc7b0c816f3}
+      \strng{authorfullhash}{dbe3ba6a6bf85da22181390bf0c7a809}
+      \strng{authorfullhashraw}{dbe3ba6a6bf85da22181390bf0c7a809}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Desarrollo backend para aplicaciones web, Servicios Web Restful: Node.js vs Spring Boot}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.proquest.com/openview/a78cfaa62708fd24f38ac8d1025050eb/1?pq-origsite=gscholar&cbl=10063
+      \endverb
+      \verb{url}
+      \verb https://www.proquest.com/openview/a78cfaa62708fd24f38ac8d1025050eb/1?pq-origsite=gscholar&cbl=10063
+      \endverb
+    \endentry
+    \entry{scrum}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=a02f29ae63f4fd843a8ae36edaa2d70d}{%
+           family={Trigás\bibnamedelima Gallego},
+           familyi={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a02f29ae63f4fd843a8ae36edaa2d70d}
+      \strng{fullhash}{a02f29ae63f4fd843a8ae36edaa2d70d}
+      \strng{fullhashraw}{a02f29ae63f4fd843a8ae36edaa2d70d}
+      \strng{bibnamehash}{a02f29ae63f4fd843a8ae36edaa2d70d}
+      \strng{authorbibnamehash}{a02f29ae63f4fd843a8ae36edaa2d70d}
+      \strng{authornamehash}{a02f29ae63f4fd843a8ae36edaa2d70d}
+      \strng{authorfullhash}{a02f29ae63f4fd843a8ae36edaa2d70d}
+      \strng{authorfullhashraw}{a02f29ae63f4fd843a8ae36edaa2d70d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Metodología Scrum: Desarrollo detallado de la fase de aprobación de un proyecto informático mediante el uso de metodologías ágiles}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://openaccess.uoc.edu/server/api/core/bitstreams/64de036d-c56c-4317-ad60-fcb968469221/content
+      \endverb
+      \verb{url}
+      \verb https://openaccess.uoc.edu/server/api/core/bitstreams/64de036d-c56c-4317-ad60-fcb968469221/content
+      \endverb
+    \endentry
+    \entry{databases}{misc}{}{}
+      \name{author}{6}{}{%
+        {{hash=ee0111db30c686fbfd2421ec469ed286}{%
+           family={Pisco\bibnamedelima Gómez},
+           familyi={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Ángel},
+           giveni={Á\bibinitperiod}}}%
+        {{hash=11d95cfaa846a8ad9dd4cf86f6b8accb}{%
+           family={Regalado\bibnamedelima Jalca},
+           familyi={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Julio\bibnamedelima Johnny},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e5ad7ff437d1c2c3ce83e6c58df585fe}{%
+           family={Gutiérrez\bibnamedelima García},
+           familyi={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Jimmy},
+           giveni={J\bibinitperiod}}}%
+        {{hash=775e62e53bfc8dd9b8937a3c385a2edc}{%
+           family={Quimis\bibnamedelima Sánchez},
+           familyi={Q\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Omar},
+           giveni={O\bibinitperiod}}}%
+        {{hash=c9257a06914ae81d87389749c7dd725a}{%
+           family={Marcillo\bibnamedelima Parrales},
+           familyi={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Kleber},
+           giveni={K\bibinitperiod}}}%
+        {{hash=069dea7b7423f7a00ddb82f858db904b}{%
+           family={Marcillo\bibnamedelima Merino},
+           familyi={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7bd9b3a1a8db5f64d650bc49e9689972}
+      \strng{fullhash}{dcfdac81c96058be4bdb60489a42f1c9}
+      \strng{fullhashraw}{dcfdac81c96058be4bdb60489a42f1c9}
+      \strng{bibnamehash}{dcfdac81c96058be4bdb60489a42f1c9}
+      \strng{authorbibnamehash}{dcfdac81c96058be4bdb60489a42f1c9}
+      \strng{authornamehash}{7bd9b3a1a8db5f64d650bc49e9689972}
+      \strng{authorfullhash}{dcfdac81c96058be4bdb60489a42f1c9}
+      \strng{authorfullhashraw}{dcfdac81c96058be4bdb60489a42f1c9}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentos sobre la gestión de base de datos}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://books.google.com.co/books?hl=es&lr=lang_es&id=H0VBDwAAQBAJ&oi=fnd&pg=PA21
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.co/books?hl=es&lr=lang_es&id=H0VBDwAAQBAJ&oi=fnd&pg=PA21
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
