@@ -1,0 +1,38 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[h]
+\centering
+\includegraphics[width=0.3\textwidth]{graphics/node.js vs spring boot.png}
+\caption{Comparación entre Node.js y Spring Boot en el desarrollo backend.}
+\label{fig:nodejs_springboot}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[h]
+\centering
+\includegraphics[width=0.3\textwidth]{graphics/Prueba de scrum.png}
+\caption{Implementación de la metodología Scrum en el proyecto.}
+\label{fig:scrum}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[h]
+\centering
+\includegraphics[width=0.3\textwidth]{graphics/discord.png}
+\caption{Comunicación diaria en Discord para el seguimiento del proyecto.}
+\label{fig:discord}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[h]
+\centering
+\includegraphics[width=0.3\textwidth]{graphics/base de datos postgres.png}
+\caption{Estructura de la base de datos PostgreSQL utilizada en el proyecto.}
+\label{fig:postgres}
+\end{figure*}

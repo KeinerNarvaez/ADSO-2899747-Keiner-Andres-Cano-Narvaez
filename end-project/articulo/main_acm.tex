@@ -1,0 +1,46 @@
+\documentclass[sigconf,nonacm]{acmart}
+
+\input{includes/preamble_common}
+\input{includes/preamble_acm}
+
+\AtBeginDocument{\providecommand\BibTeX{{\sc Bib}\TeX}}
+
+\title[Plantilla multi-formato]{Plantilla multi-formato para investigación aplicada en buenas prácticas de desarrollo de software}
+
+\author{Keiner Andres Cano Narvaez}
+\affiliation{%
+  \institution{Servicio Nacional de Aprendizaje (SENA)}
+  \city{Neiva}
+  \country{Colombia}}
+\email{ckeinercano@gmail.com}
+\orcid{0009-0002-7849-6598}
+
+\author{Jesús Ariel González Bonilla}
+\affiliation{%
+  \institution{Servicio Nacional de Aprendizaje (SENA)}
+  \city{Neiva}
+  \country{Colombia}}
+\email{instructor@ejemplo.edu}
+
+\begin{abstract}
+\input{sections/00_abstract}
+\end{abstract}
+
+\keywords{buenas prácticas, ingeniería de software, investigación aplicada, reproducibilidad}
+
+\begin{document}
+\maketitle
+
+\input{sections/01_introduccion}
+\input{sections/02_relacionados}
+\input{sections/03_metodologia}
+\input{sections/04_implementacion}
+\input{sections/05_resultados}
+\input{sections/06_discusion}
+\input{sections/07_conclusiones}
+\input{sections/A1_apendices}
+
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{bibliography/references}
+
+\end{document}
